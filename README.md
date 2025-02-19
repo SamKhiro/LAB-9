@@ -1,4 +1,4 @@
-# LAB-9 / Introduction à l'IA
+# LAB-9 / Samy - Naïm
 
 Aujourd'hui, mon binome Naïm et moi-même nous attaquons au LAB n°9, la création d'un chatbot. Le fichier .py que l'on utilisera aujourd'hui est : app.py
 
